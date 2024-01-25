@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,user-scalable=yes">
+<meta name="format-detection" content="telephone=no">
+<title>産食率と献立 | Food Hub Project 神山 | 地産地食 Farm Local, Eat Local</title>
+<meta property="og:title" content="産食率と献立 | Food Hub Project 神山 | 地産地食 Farm Local, Eat Local" />
+<meta name="description" content="育てる、つくる、食べる、つなぐ―地域で育てられたものを、その土地で料理し一緒に食べることで、地域での「関係性」を育て、農業と食文化を次の世代につないでいくことを目指し、2016年から徳島県神山町で活動しています。">
+<meta name="keywords" content="Food Hub Project,Food Hub,フードハブ・プロジェクト,フードハブ,神山町,徳島県神山町,かま屋,かまパン＆ストア,神山の味,神山町地方創生戦略">
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://foodhub.co.jp/eat/self_sufficient/" />
+<meta property="og:image" content="http://foodhub.co.jp/img/bg_footer_pc.jpg" />
+<meta property="og:site_name" content="Food Hub Project 神山 | 地産地食 Farm Local, Eat Local" />
+<meta property="og:description" content="育てる、つくる、食べる、つなぐ―地域で育てられたものを、その土地で料理し一緒に食べることで、地域での「関係性」を育て、農業と食文化を次の世代につないでいくことを目指し、2016年から徳島県神山町で活動しています。" />
+<meta property="fb:app_id" content="1253881378042297" />
+
+ <link rel="shortcut icon" href="http://foodhub.co.jp/favicon.ico" type="image/vnd.microsoft.icon">
+ <link rel="icon" href="http://foodhub.co.jp/favicon.ico" type="image/vnd.microsoft.icon">
+ <link rel="icon" href="http://foodhub.co.jp/favicon.ico" type="image/vnd.microsoft.icon">
+
+<link rel="stylesheet" href="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/css/base.css?updateat=20171127" media="all">
+<link rel="stylesheet" href="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/css/slick.css" media="all">
+
+<script src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/js/jquery.js"></script>
+<script src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/js/slick.min.js"></script>
+<script src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/js/common.js?updateat=20180404"></script>
+<!--[if lt IE 9]><script src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/js/html5shiv.min.js"></script><![endif]-->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="毎日いただきます by Food Hub Project &raquo; 産食率と献立 フィード" href="http://foodhub.co.jp/eat/self_sufficient/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/foodhub.co.jp\/admin\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.23"}};
+			!function(t,a,e){var r,i,n,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(n=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},i=0;i<n.length;i++)e.supports[n[i]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,56826,8203,55356,56819),0,0),e===o.toDataURL())?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55358,56794,8205,9794,65039),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55358,56794,8203,9794,65039),0,0),e!==o.toDataURL()}return!1}(n[i]),e.supports.everything=e.supports.everything&&e.supports[n[i]],"flag"!==n[i]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[n[i]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='https://api.w.org/' href='http://foodhub.co.jp/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://foodhub.co.jp/admin/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://foodhub.co.jp/admin/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.23" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-89382052-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.8&appId=1253881378042297";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="wrapper">
+
+  <header class="header">
+      <div class="header-in">
+        <p class="header-logo"><a href="/"><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/logo_header@2x.png" alt="毎日いただきます"></a></p>
+      <nav class="nav-global">
+        <div class="nav-menu only-sp">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <ul class="list-nav-global">
+          <li><a href="/events/"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/txt_nav_events@2x.png" alt="イベント"></a></span></li><!--
+          --><li><a href="/daybook/"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/txt_nav_daybook@2x.png" alt="活動日誌"></a></span></li><!--
+          --><li><a href="/about/"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/txt_nav_about@2x.png" alt="フードハブとは"></span></a>
+            <ul class="list-nav-global-sub">
+              <li class="parent"><a href="/about/">フードハブとは</a></li>
+              <li><a href="/about/project/">プロジェクト</a></li>
+              <li><a href="/about/work/">取り組み</a></li>
+              <li><a href="/about/company/">会社概要</a></li>
+            </ul>
+          </li><!--
+          --><li><a href="/farm/"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/txt_nav_grow@2x.png" alt="育てる"></span></a>
+            <ul class="list-nav-global-sub">
+              <li class="parent"><a href="/farm/">育てる</a></li>
+              <li><a href="/farm/green_house/">石がけハウス（実証実験）</a></li>
+              <li><a href="/farm/training/">農業研修について</a></li>
+              <li><a href="/farm/csfs/">しゃえんもん隊</a></li>
+            </ul>
+          </li><!--
+          --><li><a href="/craft/"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/txt_nav_make@2x.png" alt="つくる"></span></a>
+            <ul class="list-nav-global-sub">
+              <li class="parent"><a href="/craft/">つくる</a></li>
+              <li><a href="/craft/products/">神山の味 PRODUCTS</a></li>
+            </ul>
+          </li><!--
+          --><li class="is-active"><a href="/eat/"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/txt_nav_eat@2x.png" alt="食べる"></span></a>
+            <ul class="list-nav-global-sub">
+              <li class="parent"><a href="/eat/">食べる</a></li>
+              <li><a href="/eat/shop/">お店について</a></li>
+              <li class="is-active"><a href="/eat/self_sufficient/">産食率と献立</a></li>
+            </ul>
+          </li><!--
+          --><li><a href="/cycle/"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/txt_nav_connect@2x.png" alt="つなぐ"></span></a>
+            <ul class="list-nav-global-sub">
+              <li class="parent"><a href="/cycle/">つなぐ</a></li>
+              <li class="parent"><a href="/npo/">食農NPOについて</a></li>
+              <li><a href="/cycle/friends/">「神山の味」の会について</a></li>
+              <li><a href="/cycle/recruit/">採用について</a></li>
+            </ul>
+          </li><!--
+          --><li class="list-nav-global-english"><a href="http://foodhub.co.jp/daybook/?category=English">English</a></li><!--
+          --><li class="list-nav-global-shop"><a href="https://foodhub.shop-pro.jp/" target="_blank"><span><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/btn_nav_shop@2x.png" alt="ONLINE SHOP"></span></a></li>
+        </ul>
+      </nav>
+    </div><!-- /header-inner -->
+  </header>
+
+  <div class="contents">
+    <main class="contents-main">
+
+  <section class="sec-self_sufficient-archive">
+    <h1 class="ttl-page">産食率と献立</h1>
+    <p class="txt-lead-archive">「産食率」は、食堂における<br class="only-pc">
+    「地域で育てて、地域で食べている」割合（％）を<br class="only-pc">
+    定期的に測定していくための、私たちが定める基準です。</p>
+    <p class="txt-lead-archive">国が定める自給率のように、カロリーや生産額を<br class="only-pc">
+    元にする算出方法ではなく、学校給食などで用いられる<br class="only-pc">
+    「食材品目数（町内産）÷ 食材品目数（総合計）」という<br class="only-pc">
+    計算方法をベースに算出しています。</p>
+    <p class="txt-lead-archive">私たちが掲げる「地産地食」の割合を、<br class="only-pc">
+    定期的にここで報告していきます。</p>
+    <ul class="list-self_sufficient-archive">
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">1月18日週</h2>
+          <p class="avarage">66%</p>
+          <div class="description">
+                      </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2024/01/IMG_3401-240x240.jpg" alt="今津農園 大根サラダ 梅干しと干し柿/oronono さつまいも天ぷら/たむらのたまご ウフマヨ/阿波ノ北方農園 釜炊き小松菜ご飯/徳島県産 鯛のポトフ クレソンサルサ"></figure>
+              <p class="date">1月18日(木)</p>
+              <p class="menu">今津農園 大根サラダ 梅干しと干し柿/oronono さつまいも天ぷら/たむらのたまご ウフマヨ/阿波ノ北方農園 釜炊き小松菜ご飯/徳島県産 鯛のポトフ クレソンサルサ</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">1月11日週</h2>
+          <p class="avarage">58%</p>
+          <div class="description">
+            <p><span>57.7％の産食率。端境期前のこの月にこの調子で頑張っていきたいです。今週も美味しいお野菜がたくさんとどきました。やさいのちえちゃんからは、ラディッシュ。こちらは下分の川野さんからいただいた橙の果汁と合わせ、ピクルスに。ヒタヒタにつけて、ラディッシュの新鮮な食感と、ソースのキリッとした風味をよく味わえました。今津自然農園さんからは、白ネギが届き、こちらは炒めてご飯に混ぜました。このご飯はご飯だけでもよく進みます。クレピネットと最高のペアリングでもありました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2024/01/IMG_3262-2-240x240.jpg" alt="oronono 白菜サラダ/oronono はくれいカブのスープ/やさいのちえ ラディッシュピクルス/阿波ノ北方農園 釜炊きネギご飯/阿波美豚 クレピネット 小松菜のジンジャーソテーと人参のロースト
+"></figure>
+              <p class="date">1月11日(木)</p>
+              <p class="menu">oronono 白菜サラダ/oronono はくれいカブのスープ/やさいのちえ ラディッシュピクルス/阿波ノ北方農園 釜炊きネギご飯/阿波美豚 クレピネット 小松菜のジンジャーソテーと人参のロースト<br />
+</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">1月2日週</h2>
+          <p class="avarage">71%</p>
+          <div class="description">
+            <p><span>年始好調の産食率でした！サラダにたくさんの葉野菜を入れることができたのも理由の一つ。やさいのちえちゃんのトレビスも入り、とてもカラフルなサラダに仕上がりました。オークレタス、リーフレタス、バターヘッドレタスと、入れたレタスは3種類。すべてorononoのもので、すっかり、かま屋ではレタスと言ったらorononoになりましたね。つなぐ農園・しーちゃんのゆこうのドレッシングと絡めて美味しくいただきました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2024/01/IMG_3165-240x240.jpg" alt="oronono オークレタスサラダ/やさいのちえ 里芋フライ/oronono ビーツピクルス 梅干しソース/阿波ノ北方農園 釜炊きレモングラスご飯/すだち鶏 参鶏湯"></figure>
+              <p class="date">1月2日(火)</p>
+              <p class="menu">oronono オークレタスサラダ/やさいのちえ 里芋フライ/oronono ビーツピクルス 梅干しソース/阿波ノ北方農園 釜炊きレモングラスご飯/すだち鶏 参鶏湯</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">12月21日週</h2>
+          <p class="avarage">45%</p>
+          <div class="description">
+            <p><span>この週のメニューは、使用食材が少なく産食率がガクッと落ちてしまいました。しかし、ほとんどが神山のお野菜です。 ダントツで人気だったのは、メインに添えられたキャベツのロースト。やさいのちえちゃんのものです。お肉に添えていたカレーバターソースを少しかけることで美味しさが倍増しました。スープは今津自然農園さんの赤い飛騨かぶを使用。定番のゆずクリームと合わせて、優しい風味にほっこりしました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/12/IMG_2832-240x240.jpg" alt="やさいのちえ 春菊とバターヘッドレタスのサラダ/今津農園 赤かぶスープ/神山野菜 野菜のフリット/阿波ノ北方農園 釜炊きわさび菜ご飯/阿波美豚 黒胡椒焼き カレーバター添え　ローストキャベツ"></figure>
+              <p class="date">12月21日(木)</p>
+              <p class="menu">やさいのちえ 春菊とバターヘッドレタスのサラダ/今津農園 赤かぶスープ/神山野菜 野菜のフリット/阿波ノ北方農園 釜炊きわさび菜ご飯/阿波美豚 黒胡椒焼き カレーバター添え　ローストキャベツ</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">12月14日週</h2>
+          <p class="avarage">65%</p>
+          <div class="description">
+            <p><span>今週も程よい産食率をキープできました。今回のメインはやさいのちえちゃんのフェンネルづくし。 すだち鶏のもも肉にマリネしたのはフェンネルの葉の部分。火を通すごとにまろやかな香りに変化し、その側に立っているだけで、うっとりとすしました。添えられたファーマース森さんのレモンと相性抜群でしたね。それに添えられたのはフェンネルの株の部分のバターソテー。シャキシャキとした食感をのこしつつもジューシーに仕上がっていて、口に運ぶのが楽しい一品でした。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/12/409325656_18305099254134754_8103057641679467297_n-240x240.jpg" alt="oronono レタスサラダ と菊芋チップス/oronono 人参スープ/つなぐ農園 スイスチャードのピクルス/阿波ノ北方農園 釜炊きコリアンダーご飯/すだち鶏 チキンソテー フェンネル添え バターナッツピューレ
+"></figure>
+              <p class="date">12月14日(木)</p>
+              <p class="menu">oronono レタスサラダ と菊芋チップス/oronono 人参スープ/つなぐ農園 スイスチャードのピクルス/阿波ノ北方農園 釜炊きコリアンダーご飯/すだち鶏 チキンソテー フェンネル添え バターナッツピューレ<br />
+</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">12月7日週</h2>
+          <p class="avarage">63%</p>
+          <div class="description">
+            <p><span>この週はパクチーサルサがメインのスズキにのって登場！ずっと言い続けていますが、やさいのちえちゃんのこのパクチー、本当に美味しいです。里山の会さんの生の唐辛子やミントもいれてエスニック風に仕上げました。サラダはつなぐ農園の紫ケールと鰹節。すだちのクリームドレッシングがいい感じに２つの素材に一体感をだしてくれました。菊芋のスープは久しぶりの登場でしたね。里山の会さんのものです。こちらもお客様からたくさん嬉しいお声をいただきました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/12/IMG_2688-240x240.jpg" alt="つなぐ農園 ケールサラダ /里山の会 菊芋スープ/やさいのちえ カブと柿のピクルス/阿波ノ北方農園 釜炊き落花生ご飯/徳島県産 素揚げスズキ パクチーサルサ ロースト人参"></figure>
+              <p class="date">12月7日(木)</p>
+              <p class="menu">つなぐ農園 ケールサラダ /里山の会 菊芋スープ/やさいのちえ カブと柿のピクルス/阿波ノ北方農園 釜炊き落花生ご飯/徳島県産 素揚げスズキ パクチーサルサ ロースト人参</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">11月30日週</h2>
+          <p class="avarage">67%</p>
+          <div class="description">
+            <p><span>白桃農園の山葡萄が再び登場したこの週。66.7％と高めの産食率です！山葡萄はメインのローストポークのソースになりました。夏のとれたての頃よりもぐっと甘みが深まりジューシーになった山葡萄は、阿波美豚の旨味にも負けないものでした。今週のサラダにもやさいのちえちゃんのコリアンダーを混ぜていましたが、こちらも噛むほどに甘みがひろがり、ゆずのクリームドレッシングとも相性バツグンでした。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/11/IMG_2491-240x240.jpg" alt="oronono バターヘッドレタスサラダ /里山の会 ヤーコンピクルス/oronono ローストペッパー/阿波ノ北方農園 釜炊き生姜ご飯/阿波美豚 ローストポーク 山葡萄ソース 白菜の蒸し焼き"></figure>
+              <p class="date">11月30日(木)</p>
+              <p class="menu">oronono バターヘッドレタスサラダ /里山の会 ヤーコンピクルス/oronono ローストペッパー/阿波ノ北方農園 釜炊き生姜ご飯/阿波美豚 ローストポーク 山葡萄ソース 白菜の蒸し焼き</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">11月23日週</h2>
+          <p class="avarage">70%</p>
+          <div class="description">
+            <p><span>今週も高い産食率で着地しました！今年は四季があるようなないような感じですが、しっかり食材は実りの秋です。つなぐ農園でたくさん収穫された小松菜は、メインの魚に巻いて登場しました。アブラナ科特有の食欲をそそる旨味はしっかり魚と生姜のバターソースに馴染んで、何枚でも食べられそうでした。またやさいのちえちゃんから今年初のカブが届き、葉は新米に混ぜて、実はスープに。スープにあわせたゆずクリームが、カブの優しい風味をより引き立ててくれていましたね。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/11/IMG_2404-240x240.jpg" alt="やさいのちえ パクチーサラダ /やさいのちえ はくれいカブのスープ/里山の会 菊芋チップス/阿波ノ北方農園 釜炊きカブの葉ご飯/徳島県産 旬の魚の小松菜巻き 生姜と焦がしバターソース
+"></figure>
+              <p class="date">11月23日(木)</p>
+              <p class="menu">やさいのちえ パクチーサラダ /やさいのちえ はくれいカブのスープ/里山の会 菊芋チップス/阿波ノ北方農園 釜炊きカブの葉ご飯/徳島県産 旬の魚の小松菜巻き 生姜と焦がしバターソース<br />
+</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">11月16日週</h2>
+          <p class="avarage">68%</p>
+          <div class="description">
+            <p><span>今週は、野菜はすべて神山のものでした！りんごは毎年恒例となってきた、善積農園さんのものですね。 今年もやってきたオージュ谷の煮込み。このソースがたまらなくおいしくて、旨味がギュッと詰まった阿波北方農園さんの新米と合わせて食べるのが、かま屋のおすすめ。オージュ谷は、フランス・ノルマンディー地方にある渓谷の名前。ここはりんごの産地で、りんごをたくさん使った家庭料理があるのだとか。 リーフレタスサラダは、ほとんどがやさいのちえちゃんのものでしたが、少しだけ、orononoさんと小学生がつくってくれたリーフレタスも混ざっていました。小学生が収穫し、納品までしてくれたもので、味は葉も茎も甘くて美味しい！と保証付き。小学生が心を込めて育てた愛情がちゃんとレタスにとどいていて、元気を与えてくれているようです。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/11/IMG_2229-240x240.jpg" alt="やさいのちえ リーフレタスサラダ /里山の会 里芋のフリット/やさいのちえ 間引き菜のソテー/阿波ノ北方農園 釜炊き新米ご飯/すだち鶏 オージュ谷の煮込み りんごのロースト"></figure>
+              <p class="date">11月16日(木)</p>
+              <p class="menu">やさいのちえ リーフレタスサラダ /里山の会 里芋のフリット/やさいのちえ 間引き菜のソテー/阿波ノ北方農園 釜炊き新米ご飯/すだち鶏 オージュ谷の煮込み りんごのロースト</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">11月9日週</h2>
+          <p class="avarage">61%</p>
+          <div class="description">
+            <p><span>今週は和歌山のイベファームさんから自然栽培のみかんが届き、メイン・豚グリルのソースに使用しました。甘くてみずみずしいみかんの風味がお皿に一体感を出してくれました。産食率は県外の素材も使用しましたが、60%と高めで何よりでした。今週も大好評だったorononoのレタスのサラダ。コスレタスを使用しました。コスレタスはロメインレタスの子供のときです。苦味がほとんどなく、合わせたクリームとすだちのドレッシングとあわせて優しく若々しい風味を引き出しました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/11/IMG_2145-240x240.jpg" alt="oronono コスレタスのミモザサラダ /やさいのちえ 間引きカブのバーニャカウダ/今津農園 ごぼうスープ/阿波ノ北方農園 釜炊き落花生ご飯/阿波美豚 ポークグリル みかんソース じゃがいもピューレと小松菜のソテー"></figure>
+              <p class="date">11月9日(木)</p>
+              <p class="menu">oronono コスレタスのミモザサラダ /やさいのちえ 間引きカブのバーニャカウダ/今津農園 ごぼうスープ/阿波ノ北方農園 釜炊き落花生ご飯/阿波美豚 ポークグリル みかんソース じゃがいもピューレと小松菜のソテー</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">11月2日週</h2>
+          <p class="avarage">75%</p>
+          <div class="description">
+            <p><span>産食率は75%。絶好調です！だんだんお野菜が大きくなって、間引き人参や間引きカブが登場しました。今のちいさな状態だからこその優しい味わい。今回の間引き野菜は葉っぱと合わせてさくさくのかき揚げのしました。 メインはインターン生のかおるちゃんが考案し、里山の会さんでたくさんとれた冬瓜と、白桃農園のレモングラスをスープに使用。チキンソテーとレモングラスの香るスープがとっても美味しかったですね。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/11/IMG_2024-240x240.jpg" alt="oronono バターヘッドサラダ ゆずクリームドレッシング/やさいのちえ 間引き野菜のかき揚げ/oronono ピーマンとミニトマトのサラダ/阿波ノ北方農園 釜炊きごぼう/すだち鶏 チキンソテー 冬瓜とレモングラスのスープ仕立て"></figure>
+              <p class="date">11月2日(木)</p>
+              <p class="menu">oronono バターヘッドサラダ ゆずクリームドレッシング/やさいのちえ 間引き野菜のかき揚げ/oronono ピーマンとミニトマトのサラダ/阿波ノ北方農園 釜炊きごぼう/すだち鶏 チキンソテー 冬瓜とレモングラスのスープ仕立て</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">10月26日週</h2>
+          <p class="avarage">61%</p>
+          <div class="description">
+            <p><span>今週も60%台が出ました！先週はかなり厳しい結果でしたが、盛り返しができてホッとしています。 今が旬のサワラがメインで、ポワレにして仕上げました。バターソースを一緒に纏ったのは、やさいのちえちゃんのトマトと間引きかぶ、間引き人参。この間引きかぶたち、新鮮でいきいきとしている感じがとっても可愛いんですね。ソースを纏ってよりキラキラしていました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/10/48BF112A-4F6A-4F5F-8767-F9B23865D0F1-240x240.jpeg" alt="oronono ファーマーサラダ 柿ドレッシング/森ノ下農園 ロースト椎茸/今津農園 神山野菜の天ぷら/阿波ノ北方農園 釜炊きピーナッツご飯/徳島県産 サワラ バターソース 間引き野菜のスチーム"></figure>
+              <p class="date">10月26日(木)</p>
+              <p class="menu">oronono ファーマーサラダ 柿ドレッシング/森ノ下農園 ロースト椎茸/今津農園 神山野菜の天ぷら/阿波ノ北方農園 釜炊きピーナッツご飯/徳島県産 サワラ バターソース 間引き野菜のスチーム</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">10月18日週</h2>
+          <p class="avarage">46%</p>
+          <div class="description">
+            <p><span>ちょっと厳しい数字となってしまいました。神山の葉野菜がなかったという理由もありますが、長野県からいつものおいしいりんごが届きました。善積農園さんのものです。キュッとする酸味を持ちつつも甘さがたっぷりで、いつも本当に美味しいなぁとつまみ食いが進みます。もうすぐリンゴジュースも届くかもしれないですね。暖かな心が伝わってくる農家さんです。ぜひ試しにかま屋にいらしてくださいね。ローストポークの付け合せでは、里山の会のメークインを使用したポテトピューレに、orononoの新にんにくのピューレも加えました。今しか味わえない優しいにんにくの風味が、ポテトピューレによりコクをひき出してくれました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/10/IMG_1480-240x240.jpg" alt="佐々木ファーム 春菊とりんごサラダ/森ノ下農園 椎茸天ぷら/oronono ビーツと梅干しのピクルス/阿波ノ北方農園 釜炊きムカゴご飯/阿波美豚 ローストポーク じゃがいもピューレ ジンジャーフリット"></figure>
+              <p class="date">10月18日(水)</p>
+              <p class="menu">佐々木ファーム 春菊とりんごサラダ/森ノ下農園 椎茸天ぷら/oronono ビーツと梅干しのピクルス/阿波ノ北方農園 釜炊きムカゴご飯/阿波美豚 ローストポーク じゃがいもピューレ ジンジャーフリット</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">10月12日週</h2>
+          <p class="avarage">62%</p>
+          <div class="description">
+            <p><span>60%以上をキープできた今週の産食率。サラダは夏を締めくくるような夏野菜を詰め込んだロースト野菜でした。やさいのちえちゃんのミニトマトと新生姜をマリネしてソースにし、今津さんのナス2種やオクラ、orononoのピーマンをジューシーに焼き上げて仕上げました。「食欲の秋が来たなぁ！」と思わせてくれたのはバターナッツかぼちゃのスープです。バターナッツは里山の会川上さんから、栗のクリームを乗せて仕上げたのですが、栗は上地さんから。里山の会大御所の二人からの2つの素材は甘さと美味しさが詰まっていましたね。口に運ぶたびに嬉しい気持ちになりました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/10/IMG_1333-1-240x240.jpg" alt="今津農園 ローストナスとトマトサルサ/里山の会 バターナッツのスープ/里山の会 ハスイモのピクルス/阿波ノ北方農園 釜炊き新米ご飯/すだち鶏 チキンピカタ 小松菜と椎茸のソテー"></figure>
+              <p class="date">10月12日(木)</p>
+              <p class="menu">今津農園 ローストナスとトマトサルサ/里山の会 バターナッツのスープ/里山の会 ハスイモのピクルス/阿波ノ北方農園 釜炊き新米ご飯/すだち鶏 チキンピカタ 小松菜と椎茸のソテー</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">10月5日週</h2>
+          <p class="avarage">70%</p>
+          <div class="description">
+            <p><span>シンプルな構成の今週のメニュー。あるお野菜で作れたので、この時期に70％と高い産食率でした。 メインは阿波美豚の煮込み。おいしいお肉の旨味と里山の会・上地さんのニラのサルサであわせました。お肉の旨味とニラの香りがよくあって、ご飯が進む一品。orononoさんではリーフレタスが登場。葉物がなかなかない中でとてもありがたかったです。葉っぱがふわっと柔らかく、すだちのドレッシングを優しくまとい、細切りのフライドポテトのサクサクとした食感と合わさるのが楽しいサラダになりました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/10/IMG_1244-240x240.jpg" alt="oronono リーフレタスサラダ/oronono ビーツピクルス/里山の会 かぼちゃピューレ/阿波ノ北方農園 釜炊きもちきびご飯/阿波美豚 腕肉の煮込み ニラサルサ 冬瓜と椎茸の煮込み"></figure>
+              <p class="date">10月5日(水)</p>
+              <p class="menu">oronono リーフレタスサラダ/oronono ビーツピクルス/里山の会 かぼちゃピューレ/阿波ノ北方農園 釜炊きもちきびご飯/阿波美豚 腕肉の煮込み ニラサルサ 冬瓜と椎茸の煮込み</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">9月28日週</h2>
+          <p class="avarage">62%</p>
+          <div class="description">
+            <p><span>タイ料理のガイヤーンが再登場。この時期に採れる薬味の野菜が大活躍でした。里山の会さんのニラ、ネギ、みょうが、やさいのちえちゃんのにんにくをふんだんに使用し、ジューシーなすだち鶏にピッタリで、もちきびご飯もよく進みました。端境期真っ只中で、さらに今年はヨトウムシなどの被害も多く葉野菜が少ないです。もうすこし端境期は続きそうですが、たくさんの農家さんに支えてもらうことができ、今週は61.5%の産食率をだすことができました。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/09/IMG_1151-240x240.jpg" alt="佐々木ファーム コールスロー/中村暮らしを見直す会 さつまいもチップス/oronono ピーマンピクルス/阿波ノ北方農園 釜炊きもちきびご飯/すだち鶏 ガイヤーン　ロースト野菜
+"></figure>
+              <p class="date">9月28日(水)</p>
+              <p class="menu">佐々木ファーム コールスロー/中村暮らしを見直す会 さつまいもチップス/oronono ピーマンピクルス/阿波ノ北方農園 釜炊きもちきびご飯/すだち鶏 ガイヤーン　ロースト野菜<br />
+</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">9月21日週</h2>
+          <p class="avarage">69%</p>
+          <div class="description">
+            <p><span>今週は70％に届きそうな勢いの産食率！端境期をむかえている中で、大健闘のメニューでした。 夏らしいジリジリした暑さはだいぶ和らぎ、朝晩が寒いと感じるほどになりましたね。そんな時期に現れるのは、今津自然農園さんの冬瓜。かぼちゃのような出で立ちの冬瓜で、干ししいたけと昆布でお出汁をとった温かいスープと一緒に出しました。あの優しい食感と風味は心を穏やかにしてくれます。そして大好評だったのは太刀魚の天ぷらに添えたかぼちゃのマヨネーズ。里山の会さんのロロンかぼちゃのケチャップをマヨネーズに合わせたものです。みんなたっぷりつけて召し上がってくれていましたね。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/09/IMG_1032-240x240.jpg" alt="orononoロースト野菜/やさいのちえ フレッシュトマト/今津農園 冬瓜スープ/阿波ノ北方農園 釜炊きもちきびご飯/徳島県産 太刀魚の天ぷら/かぼちゃケチャップと柚子胡椒マヨネーズ ハスイモピクルス
+"></figure>
+              <p class="date">9月21日(木)</p>
+              <p class="menu">orononoロースト野菜/やさいのちえ フレッシュトマト/今津農園 冬瓜スープ/阿波ノ北方農園 釜炊きもちきびご飯/徳島県産 太刀魚の天ぷら/かぼちゃケチャップと柚子胡椒マヨネーズ ハスイモピクルス<br />
+</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">9月7日週</h2>
+          <p class="avarage">48%</p>
+          <div class="description">
+            <p><span>今週はちょっと落としてしまった産食率。野菜以外の食材が多くあったのも理由の一つですが、ついに神山は端境期をむかえています。とうもろこしのスープは北海道の佐々木ファームさんのもの。神山では、と8月2週目にはとうもろこしの時期は終わっていたので気温のちがいがよくわかりますね。柔らかな甘みのある佐々木ファームさんのとうもろこしもとても美味しかったです。ご飯にはやさいのちえちゃんの新にんにくを使用しました。にんにくはオレガノで風味をつけながら火を通し、それをすこしご飯に混ぜ込んで仕上げたもの。クレピネットと相性抜群でした。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/09/IMG_0723-240x240.jpg" alt="今津農園 ロースト野菜/里山の会 ツルムラサキとシイタケ/佐々木ファーム とうもろこしスープ/阿波ノ北方農園 釜炊きガーリックご飯/阿波美豚 クレピネット さつまいもチップス
+"></figure>
+              <p class="date">9月7日(木)</p>
+              <p class="menu">今津農園 ロースト野菜/里山の会 ツルムラサキとシイタケ/佐々木ファーム とうもろこしスープ/阿波ノ北方農園 釜炊きガーリックご飯/阿波美豚 クレピネット さつまいもチップス<br />
+</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">8月31日週</h2>
+          <p class="avarage">58%</p>
+          <div class="description">
+            <p><span>今週は60％に満たなかった産食率。理由は、北海道の佐々木ファームさんから美味しいとうもろこしと、香りの良いミントを送ってもらったためですが、どちらも風味が豊かで、プレートを更に美味しくしてくれていましたね。プレコーチェのサラダには、海老名さんの梨を使用。ビーツの甘さと、トレビスの苦味、ミントとすだちの爽やかさとよく絡まって美しくジューシーな一品になったのではないでしょうか。つなぐ農園ではすだちが採れ始め、フレッシュの果汁を使用することができる時期になりました。やっぱり採れたての香りの高さは格別です。ソースを作るのもわくわくします。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/09/IMG_0353-240x240.jpg" alt="佐々木ファーム プレコーチェサラダ/やさいのちえロースト野菜/里山の会 ハスイモピクルス/阿波ノ北方農園 釜炊きエゴマご飯/徳島県産 鯛のグリル すだちレモングラスソース とうもろこしのバターソテー"></figure>
+              <p class="date">8月31日(木)</p>
+              <p class="menu">佐々木ファーム プレコーチェサラダ/やさいのちえロースト野菜/里山の会 ハスイモピクルス/阿波ノ北方農園 釜炊きエゴマご飯/徳島県産 鯛のグリル すだちレモングラスソース とうもろこしのバターソテー</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <div class="box-self_sufficient_head">
+          <h2 class="title">8月24日週</h2>
+          <p class="avarage">63%</p>
+          <div class="description">
+            <p><span>今週はみんなに大人気のバターミルクフライドチキンがメイン。そんな食べごたえのある料理のサイドも今回が夏野菜だったので、とっても華やかでしたね。今年は白桃農園のいちじくが生り年で、去年はできなかったいちじくのローストが2年ぶりに再登場！私の一番好きなメニューです。いちじくを半分にカットし、タイムとオリーブオイルを散らして火を入れるだけですが、いちじくがよりぷっくりとして艷やかになり、タイムのほんのり香って甘すぎず、とても美しい一品です。来年はあるでしょうか。ぜひ皆さんにも食べていただきたいです。</span></p>
+          </div>
+        </div>
+        <div class="box-self_sufficient_body">
+          <ul>
+            <li>
+              <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/08/IMG_0006-240x240.jpg" alt="oronono ビーツのサラダ/里山の会 ロースト野菜/白桃農園 いちじくロースト/阿波ノ北方農園 釜炊きレモングラスご飯/すだち鶏 バターミルクのフライドチキン 青菜のソテー"></figure>
+              <p class="date">8月24日(木)</p>
+              <p class="menu">oronono ビーツのサラダ/里山の会 ロースト野菜/白桃農園 いちじくロースト/阿波ノ北方農園 釜炊きレモングラスご飯/すだち鶏 バターミルクのフライドチキン 青菜のソテー</p>
+            </li>
+          </ul>
+        </div>
+      </li>
+    </ul><!-- /list-events-archive -->
+    <p class="btn-next-page"><a class="btn-more s-infinite js-ajax-more" href="http://foodhub.co.jp/eat/self_sufficient/page/2/?ajax=true"><span>さらに10件読み込む</span></a></p>
+  </section>
+
+  <div class="box-page-content">
+    <div class="mod-more-content">
+      <a href="/eat/shop/">
+        <h3 class="ttl-more-content">お店について</h3>
+        <figure class="fig-more-content"><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/img_eat_more_shop.jpg"></figure>
+        <p>フードハブ・プロジェクトでは、神山の農業を次の世代につなぐために「地産地食｜Farm Local, Eat Local」を軸に、食堂・パン屋・食品店を運営しています。</p>
+        <p class="btn-more-link"><span class="btn-more"><span>詳しくはこちら</span></span></p>
+      </a>
+    </div>
+  </div>
+
+  <section class="sec-daybook-others-archive">
+    <h2 class="ttl-daybook-others-archive"><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/ttl_daybook-eat_archive@2x.png" alt="食べる活動日誌"></h2>
+    <ul class="list-daybook-others-archive">
+      <li>
+        <a href="http://foodhub.co.jp/daybook/7167/">
+          <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2023/06/DSC08518-min-264x176.jpg" alt="新解説・よもぎほたパウンド"></figure>
+          <h3 class="title">新解説・よもぎほたパウンド</h3>
+        </a>
+      </li>
+      <li>
+        <a href="http://foodhub.co.jp/daybook/4961/">
+          <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2020/10/26586CE2-57A6-4B78-920D-AAACA7FBD822-264x176.jpg" alt="「小さいものと、小さいものを、つなぐ」<br/>かま屋に「エタノホ」の新米が登場しました。"></figure>
+          <h3 class="title">「小さいものと、小さいものを、つなぐ」<br/>かま屋に「エタノホ」の新米が登場しました。</h3>
+        </a>
+      </li>
+      <li>
+        <a href="http://foodhub.co.jp/daybook/4759/">
+          <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2020/06/IMG_3430-264x176.jpg" alt="根を広げ幹を太らせる。<br/>できることをコツコツと。"></figure>
+          <h3 class="title">根を広げ幹を太らせる。<br/>できることをコツコツと。</h3>
+        </a>
+      </li>
+      <li>
+        <a href="http://foodhub.co.jp/daybook/4755/">
+          <figure class="figure"><img src="http://foodhub.co.jp/admin/wp-content/uploads/2020/06/IMG_0719-264x176.jpg" alt="パンの売り方を考える"></figure>
+          <h3 class="title">パンの売り方を考える</h3>
+        </a>
+      </li>
+    </ul>
+  </section><!-- /sec-daybook-others-archive-->
+
+<script>
+$(function() {
+  var $archiveWrapper = $(".list-self_sufficient-archive");
+  $(".js-ajax-more").on("click", function() {
+    var $moreBtn = $(this);
+    $moreBtn.addClass("is-loading");
+    $.ajax({
+      url: $moreBtn.attr("href")
+    }).done(function(data) {
+      var $data = $(data);
+      $archiveWrapper.append($data.children("li"));
+      if($data.find(".btn-more").length > 0)
+        $moreBtn.attr("href", $data.find(".btn-more").attr("href"));
+      else
+        $moreBtn.parent().remove();
+    }).fail(function(data, textStatus, errorThrown) {
+      alert("ページの読み込みに失敗しました");
+      console.error(errorThrown.message);
+    }).always(function() {
+      $moreBtn.removeClass("is-loading");
+    });
+    return false;
+  });
+});
+</script>
+    </main><!-- /contents-main -->
+  </div><!-- /contents -->
+
+</div><!-- /wrapper -->
+
+<div class="mod-modal">
+  <div class="bg-modal"></div><!-- /bg-modal -->
+  <div class="box-modal">
+    <figure class="figure"><img></figure>
+    <a href="#" class="btn-pager btn-prev">前へ</a><a href="#" class="btn-pager btn-next">次へ</a>
+    <a href="#" class="btn-close">閉じる</a>
+  </div><!-- /box-modal -->
+</div><!-- /mod-modal -->
+
+<footer class="footer">
+  <p class="btn-cmn-pagetop"><a href="#" class="js-scroll">ページの先頭へ</a></p>
+  <p class="footer-logo"><a href="/"><img src="http://foodhub.co.jp/admin/wp-content/themes/fhp/common/img/logo_footer@2x.png" alt="Food Hub Project 神山"></a></p>
+  <ul class="footer-nav">
+    <li><a href="/contact/"><span>お問い合わせ</span></a></li><li>
+    <a href="/access/"><span>アクセス</span></a></li><li>
+    <a href="/privacy/"><span>プライバシーポリシー</span></a></li>
+  </ul>
+  <p class="footer-copyright">Copyright &copy; 2021 Food Hub Projects Inc. <br class="only-sp">All Rights Reserved.<small>「Food Hub」 は株式会社フードハブ・プロジェクトの<br class="only-sp">登録商標です。</small></p>
+</footer>
+<script type='text/javascript' src='http://foodhub.co.jp/admin/wp-includes/js/wp-embed.min.js?ver=4.8.23'></script>
+</body>
+</html>

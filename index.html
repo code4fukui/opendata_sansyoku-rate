@@ -1,0 +1,41 @@
+
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>産食率ダッシュボード</title>
+</head><body>
+<h1>産食率ダッシュボード</h1>
+<div id=main>
+<div id=chart1></div>
+</div>
+DATA: <a href=http://foodhub.co.jp/eat/self_sufficient/>産食率と献立 | Food Hub Project 神山 | 地産地食 Farm Local, Eat Local</a> → <a href=https://github.com/code4fukui/opendata-sansyoku-rate/>GitHub</a> → <a href=https://code4fukui.github.io/opendata-sansyoku-rate/sansyoku-rate_kamiyama_kamaya.csv>CSV</a><br>
+App: <a href=https://github.com/code4fukui/opendata_sansyoku-rate>src on GitHub</a><br>
+
+<script type="module">
+import { CSV } from "https://js.sabae.cc/CSV.js";
+import { DateTime } from "https://js.sabae.cc/DateTime.js";
+import { showLineChart } from "./showLineChart.js";
+import { Num } from "https://js.sabae.cc/Num.js";
+
+const url = "./sansyoku-rate_kamiyama_kamaya.csv";
+const list = CSV.toJSON(await CSV.fetch(url));
+const formatter = v => v + "%";
+
+const name = "average";
+const data = list.map(i => [new DateTime(i.week).getTime(), i[name]]);
+
+showLineChart(chart1, { title: "産食率推移", series: [{ name: "かま屋(徳島県神山町)", data }], yaxis: { min: 0, max: 100 }, formatter });
+
+</script>
+
+<style>
+body {
+  margin: 0;
+  text-align: center;
+}
+chart-line {
+  width: 95vw;
+  height: 80vh;
+}
+a {
+  color: gray !important;
+}
+</style>

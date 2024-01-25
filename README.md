@@ -1,0 +1,2 @@
+# opendata_sansyoku-rate
+ 
